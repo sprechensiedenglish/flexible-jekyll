@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Die Soap Opera
+date: 2017-11-31 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: soap-opera.jpg # Add image post (optional)
+tags: [Soap Opera, Seifer Oper]
 ---
-
-![Soap Opera](/images/soap-opera.jpg "Soap Opera")
 
 **Sylvie**: „Hey Günther. Wie geht's?“
 
