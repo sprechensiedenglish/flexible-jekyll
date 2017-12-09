@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 comments: false
 title: All Pages
 ---
