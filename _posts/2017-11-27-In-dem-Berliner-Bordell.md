@@ -1,9 +1,11 @@
 ---
 layout: post
-title: In dem Berliner Bordell
+title: In dem Berliner Bordel
+date: 2017-11-27 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: bordell-berlin.jpg # Add image post (optional)
+tags: [Fussball]
 ---
-
-![Berliner Bordell](/images/bordell-berlin.jpg "Berliner Bordell")
 
 **Hr. Smith**: „Guten Abend. Ich suche heisse Frauen.“
 
