@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Deutsche Bahn
+date: 2017-12-01 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: deutsche-bahn.jpg # Add image post (optional)
+tags: [DB, Deutsche Bahn]
 ---
-
-![Deutsche Bahn](/images/deutsche-bahn.jpg "Deutsche Bahn")
 
 **Frau Jones**: „Ein Ticket nach Nürnberg, bitte.“
 
