@@ -2,7 +2,7 @@
 layout: post
 title: Fussball Fieber
 date: 2017-12-06 13:32:20 +0300
-description: Fun in the regional leagues. May contain bratwurst
+description: Fun in the regional leagues. May contain moaning and bratwurst
 img: fussball.jpg # Add image post (optional)
 tags: [Fussball]
 ---
