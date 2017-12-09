@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Sprechen Sie Denglish? # add your name
 author-img: flags.jpg # add your photo
 about-author: German for the rest of us # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
-github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+#twitter: # add your Twitter handle
+#facebook: # add your Facebook handle
+#github: artemsheludko # add your Github handle
+#linkedin: # add your Linkedin handle
+#email: # add your Email address
 
 # Disqus
 discus-identifier: sprechen-sie-denglish
