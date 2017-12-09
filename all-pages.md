@@ -5,5 +5,5 @@ title: All Pages
 ---
 
 <html>
-{% include './all_pages.html' %}
+{% include '/_includes/all_pages.html' %}
 </html>
