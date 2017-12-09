@@ -1,9 +1,8 @@
 ---
-layout: post
-comments: false
+layout: page
 title: All Pages
 ---
 
 <html>
-{% include '/_includes/all_pages.html' %}
+{% include all_pages.html %}
 </html>
