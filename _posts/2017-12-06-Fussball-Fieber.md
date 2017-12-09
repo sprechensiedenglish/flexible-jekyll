@@ -7,8 +7,6 @@ img: fussball.jpg # Add image post (optional)
 tags: [Fussball]
 ---
 
-![Fussball Fieber](/images/fussball.jpg "Fussball Fieber")
-
 **Markus**: „Hey Klaus. Wie geht’s dir?“
 
 **Klaus**: „Gut danke. Wie sind die Frau und die Kinder?“
