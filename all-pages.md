@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: main
 title: All Pages
 permalink: /all-pages/
 ---
+#All Pages
 <ul>
   {% for post in site.posts %}
   <li>
