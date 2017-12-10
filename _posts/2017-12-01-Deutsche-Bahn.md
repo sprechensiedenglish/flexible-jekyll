@@ -2,9 +2,8 @@
 layout: post
 title: Deutsche Bahn
 date: 2017-12-01 13:32:20 +0300
-description: Discover the marvellous ease of buying train tickets in Germany.
+description: Discover the ease of buying train tickets in Germany.
 img: deutsche-bahn.jpg # Add image post (optional)
-tags: [DB, Deutsche Bahn]
 ---
 
 **Frau Jones**: „Ein Ticket nach Nürnberg, bitte.“
