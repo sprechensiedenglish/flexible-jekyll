@@ -1,5 +1,6 @@
 ---
 layout: main
+comments: disabled
 title: About
 ---
 ## Disclaimer
