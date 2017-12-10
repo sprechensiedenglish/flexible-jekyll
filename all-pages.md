@@ -8,7 +8,6 @@ permalink: /all-pages/
   <ul>
   {% for post in site.posts %}
     <li>
-
               <span><a href="{{ post.url }}">{{ post.title }}</a></span>
     </li>
   {% endfor %}
