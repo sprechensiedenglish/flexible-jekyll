@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: nocomment
 comments: false
 title: About
 ---
