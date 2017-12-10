@@ -5,12 +5,9 @@ permalink: /all-pages/
 ---
 <h1>All Pages</h1>
 
-  <ol>
-  <li>
   {% for post in site.posts %}
-  <a href="{{ post.url }}">{{ post.title }}</a>
+  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
   {% endfor %}
-  <li>
-</ol>
+
 
 
