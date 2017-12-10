@@ -8,7 +8,7 @@ img: fussball.jpg # Add image post (optional)
 
 **Markus**: „Hey Klaus. Wie geht’s dir?“
 
-**Klaus**: „Gut danke. Wie geht es deiner Frau und den Kindern?“
+**Klaus**: „Gut, danke. Wie geht es deiner Frau und den Kindern?“
 
  **Markus**: „Auch gut.  REFEREE! BIST DU BLIND? Alles gut beim Job?“
 
@@ -16,7 +16,7 @@ img: fussball.jpg # Add image post (optional)
 
 **Markus**: „Ja, super. MÜLLER! PULL DEINEN FINGER RAUS!“
 
-**Klaus**: „Vielen dank. Wann war unser letzter Sieg?“
+**Klaus**: „Vielen Dank. Wann war unser letzter Sieg?“
 
 **Markus**: „Keine Ahnung. KICK ES!“
 
@@ -26,7 +26,7 @@ img: fussball.jpg # Add image post (optional)
 
 **Markus**: „20 Jahre.“
 
-**Klaus**: „Genau. Und wir sind noch scheisse.“
+**Klaus**: „Genau. Und wir sind noch immer scheisse.“
 
 **Markus**: „AUF GEHT’S GSCHLACHTENBRETZINGEN!“
 
