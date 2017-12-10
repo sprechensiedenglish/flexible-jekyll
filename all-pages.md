@@ -4,8 +4,9 @@ title: All Pages
 permalink: /all-pages/
 ---
 <h1>All Pages</h1>
-<p>
   {% for post in site.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
+  <p>
+  <a href="{{ post.url }}">{{ post.title }}</a></p>
   {% endfor %}
-</p></br>
+
+
