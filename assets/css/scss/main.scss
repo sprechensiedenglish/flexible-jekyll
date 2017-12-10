@@ -2,8 +2,9 @@
 @import 'syntax';
 @import 'variables';
 
-a:hover, a:visited, a:link, a:active
-{
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
     text-decoration: none;
 }
 
