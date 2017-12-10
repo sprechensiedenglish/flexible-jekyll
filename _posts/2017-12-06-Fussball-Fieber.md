@@ -4,12 +4,11 @@ title: Fussball Fieber
 date: 2017-12-06 13:32:20 +0300
 description: Fun in the regional leagues. May contain moaning middle-aged men. And bratwurst.
 img: fussball.jpg # Add image post (optional)
-tags: [Fussball]
 ---
 
 **Markus**: „Hey Klaus. Wie geht’s dir?“
 
-**Klaus**: „Gut danke. Wie sind die Frau und die Kinder?“
+**Klaus**: „Gut danke. Wie geht es deiner Frau und den Kindern?“
 
  **Markus**: „Auch gut.  REFEREE! BIST DU BLIND? Alles gut beim Job?“
 
@@ -23,7 +22,7 @@ tags: [Fussball]
 
 **Klaus**: „Wie lange sind wir Fans von SpVgg Wacker Gschlachtenbretzingen von 1920? 
 
-„SCHNEIDER! DU BIST ARSCHLOCH!“
+„SCHNEIDER! DU BIST EIN ARSCHLOCH!“
 
 **Markus**: „20 Jahre.“
 
@@ -37,6 +36,6 @@ tags: [Fussball]
 
 [PFIFF!!]
 
-**Klaus**: „Alles vorbei. Immer nächstes Jahr. Kommst du nächster Samstag?“
+**Klaus**: „Alles vorbei. Vielleicht nächstes Jahr? Kommst du nächster Samstag?“
 
 **Markus**: „Ja, bis dann.“
