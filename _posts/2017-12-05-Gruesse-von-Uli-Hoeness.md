@@ -8,7 +8,7 @@ img: hoeness.jpg # Add image post (optional)
 
 Servus, denglishe Fussball Fans
 
-Ich heisse Ulrich Hoeness. Ich bin “Mr FC Bayern”. Mein Blut ist rot-weiss.
+Ich heisse Ulrich Hoeness. Ich bin “Mr FC Bayern” und mein Blut ist rot-weiss.
 
 Die FC Bayern ist der beste Club der Welt. Ich und meine Kollegen sind wie die X-Men und meine Gruppe von “angry bald men” ist stark. 
 
