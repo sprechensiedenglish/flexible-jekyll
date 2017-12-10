@@ -15,6 +15,6 @@ permalink: /all-pages/
     </li>
   {% endfor %}
 </ul>
-
+</div>
 
 
