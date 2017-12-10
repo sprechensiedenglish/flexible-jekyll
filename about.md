@@ -1,6 +1,6 @@
 ---
-layout: main
-comments: disabled
+layout: post
+comments: false
 title: About
 ---
 ## Disclaimer
