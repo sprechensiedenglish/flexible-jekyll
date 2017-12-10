@@ -2,12 +2,6 @@
 @import 'syntax';
 @import 'variables';
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: none;
-}
-
 *, *::after, *::before {
   box-sizing: border-box;
 }
