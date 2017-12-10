@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nocomment
 title: About
 ---
 ## Disclaimer
