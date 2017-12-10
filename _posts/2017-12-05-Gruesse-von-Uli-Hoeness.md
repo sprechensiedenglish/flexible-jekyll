@@ -4,7 +4,6 @@ title: Grüsse von Uli Hoeness
 date: 2017-12-05 13:32:20 +0300
 description: Mr FC Bayern speaks!
 img: hoeness.jpg # Add image post (optional)
-tags: [Fussball, Hoeness, FC Bayern]
 ---
 
 Servus, denglishe Fussball Fans
