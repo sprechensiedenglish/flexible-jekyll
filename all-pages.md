@@ -3,11 +3,9 @@ layout: main
 title: All Pages
 permalink: /all-pages/
 ---
-<h1>All Pages</h1>
-<ul>
+<span><h1>All Pages</h1></span>
+<span>
   {% for post in site.posts %}
-  <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
   {% endfor %}
-</ul>
+</span>
