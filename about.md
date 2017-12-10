@@ -1,7 +1,7 @@
- ---
- layout: main
-  title: About
-  ---
+---
+layout: main
+title: About
+---
 
 ## Disclaimer
 
