@@ -4,7 +4,6 @@ title: Die Soap Opera
 date: 2017-11-31 13:32:20 +0300
 description: "Wie Sand durch die Sanduhr …"
 img: soap-opera.jpg # Add image post (optional)
-tags: [Soap Opera, Seifer Oper]
 ---
 
 **Sylvie**: „Hey Günther. Wie geht's?“
