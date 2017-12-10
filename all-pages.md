@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: nocomment
 title: All Pages
 permalink: /all-pages/
 ---
