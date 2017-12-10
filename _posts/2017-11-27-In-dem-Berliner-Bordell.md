@@ -4,7 +4,6 @@ title: In dem Berliner Bordel
 date: 2017-11-27 13:32:20 +0300
 description: Ein bisschen Rumpy Pumpy?
 img: bordell-berlin.jpg # Add image post (optional)
-tags: [Fussball]
 ---
 
 **Hr. Smith**: „Guten Abend. Ich suche heisse Frauen.“
