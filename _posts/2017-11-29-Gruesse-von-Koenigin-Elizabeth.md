@@ -4,7 +4,6 @@ title: Grüsse von Königin Elizabeth
 date: 2017-11-29 13:32:20 +0300
 description: A special message from the Queen.
 img: queen.jpg # Add image post (optional)
-tags: [Queen]
 ---
 
 Hallo meine denglishen Subjects
