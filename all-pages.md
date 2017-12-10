@@ -3,10 +3,9 @@ layout: main
 title: All Pages
 permalink: /all-pages/
 ---
-<div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">All Pages</h1>
-      </header>
+<section>
+  <h1>Tags in Blog</h1>
+  
   <ul>
   {% for post in site.posts %}
     <li>
@@ -14,6 +13,6 @@ permalink: /all-pages/
     </li>
   {% endfor %}
 </ul>
-</div>
+</section>
 
 
