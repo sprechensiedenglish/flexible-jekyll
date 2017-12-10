@@ -1,8 +1,8 @@
 ---
 layout: post
+comments: false
 title: All Pages
 ---
 
-<html>
+## All Pages
 {% include all_pages.html %}
-</html>
