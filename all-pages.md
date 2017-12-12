@@ -1,11 +1,4 @@
 ---
-layout: main
+layout: nocommreuse
 title: All Pages
-permalink: /all-pages/
 ---
-<section class="blog-tags">
-  <h1>All Pages</h1>
-  {% for post in site.posts %}
-  <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
-  {% endfor %}
-</section>
