@@ -19,5 +19,5 @@
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
-  {{ content }}
+  <p>yadda</p>
 </div>
