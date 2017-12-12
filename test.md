@@ -29,12 +29,10 @@ title: Test
         <h1 class="page-title">About</h1>
         <div class="page-date"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
-       <div class="copyright">
       
       <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
     </div>
-  </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
+
 <div class="content-box clearfix">
   {% for post in site.posts %}
   <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
