@@ -2,12 +2,9 @@
 layout: default
 title: Test
 ---
-
 <div class="content-box clearfix">
   <article class="article-page">
   <div class="page-content">
-    
-    
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">About</h1>
@@ -20,7 +17,3 @@ title: Test
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
-
-</div>
-
-  </div>
