@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <aside class="sidebar">
   <header>
     <div class="about">
