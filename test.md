@@ -1,5 +1,6 @@
 ---
 layout: default
+title: All Posts
 ---
 <aside class="sidebar">
   <header>
