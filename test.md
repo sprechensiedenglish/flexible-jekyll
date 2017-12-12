@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nocomment
 title: Test
 ---
 
