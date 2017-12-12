@@ -1,10 +1,11 @@
 ---
-layout: nocomment
-comments: false
+layout: main
 title: All Pages
+permalink: /all-pages/
 ---
-## Disclaimer
-
-If you choose to use this site to learn German, you do so at your own risk.
-
-{% include allpages.html %}
+<section class="blog-tags">
+  <h1>All Pages</h1>
+  {% for post in site.posts %}
+  <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
+  {% endfor %}
+</section>
