@@ -15,7 +15,12 @@ title: Test
     </div>
   </header> <!-- End Header -->
   <footer>
-    
+     <div class="copyright">
+      
+      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
   <article class="article-page">
   <div class="page-content">
