@@ -2,6 +2,8 @@
 layout: nocomment
 title: Test
 ---
-  {% for post in site.posts %}
+ <section>
+ {% for post in site.posts %}
   <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
   {% endfor %}
+</section>
