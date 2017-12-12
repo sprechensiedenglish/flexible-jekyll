@@ -1,8 +1,3 @@
----
-layout: main
-comments: false
-title: About
----
 ## Disclaimer
 
 If you choose to use this site to learn German, you do so at your own risk.
