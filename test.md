@@ -13,7 +13,6 @@ title: Test
   {% for post in site.posts %}
   <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
   {% endfor %}
- </div>
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
