@@ -1447,22 +1447,4 @@ a.newer-posts:hover {
   }
 }
 
-/*Page Navigation*/
 
-.pagination {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-}
-
-.pagination a {
-  display: block;
-  width: 50%;
-  float: left;
-  margin: 1em 0;
-}
-
-.pagination .next_page {
-  text-align: right;
-}
