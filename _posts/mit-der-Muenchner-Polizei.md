@@ -5,3 +5,5 @@ date: 2017-12-12
 description: Cleaning up the mean streets of Munich
 img: polizei.jpg
 ---
+
+**Polizist**: „xxxxxxxx xxxxxxxx xxxxxxxxx“
