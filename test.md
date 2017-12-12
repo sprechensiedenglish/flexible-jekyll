@@ -14,7 +14,9 @@ title: All Posts
       <a href="/all-pages">All Pages</a></p>
     </div>
   </header> <!-- End Header -->
+  <h1>yadda</h1>
+  <p>yadda</p>
   <footer>
 <div class="content-box clearfix">
-  <p>yadda</p>
+  
 </div>
