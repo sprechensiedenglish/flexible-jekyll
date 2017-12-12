@@ -1,7 +1,3 @@
----
-layout: default
-title: All Posts
----
 <aside class="sidebar">
   <header>
     <div class="about">
@@ -14,9 +10,14 @@ title: All Posts
       <a href="/all-pages">All Pages</a></p>
     </div>
   </header> <!-- End Header -->
-  <h1>yadda</h1>
-  <p>yadda</p>
   <footer>
+
+    <div class="copyright">
+      
+      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
-  
+  {{ content }}
 </div>
