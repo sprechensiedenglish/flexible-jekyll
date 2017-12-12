@@ -14,10 +14,9 @@ permalink: /all-pages/
       </header>
 
   {% for post in site.posts %}
-  <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
+ <p><a href="{{ post.url }}">{{ post.title }}</a></p>
   {% endfor %}
 
-</div>
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
