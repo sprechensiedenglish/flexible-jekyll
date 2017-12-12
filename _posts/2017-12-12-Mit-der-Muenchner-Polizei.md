@@ -23,7 +23,7 @@ published: false
 
 **Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
 
-**Polizist**: „Rules sind Rules. Wo würden wir ohne Rules sein? Totales Chaos!“
+**Polizist**: „Es ist mir egal.“
 
 **Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
 
