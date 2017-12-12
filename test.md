@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: nocomment
 title: Test
 ---
-<section class="blog-tags">
+<section>
   {% for post in site.posts %}
   <span><p><a href="{{ post.url }}">{{ post.title }}</a></p></span>
   {% endfor %}
