@@ -1,7 +1,7 @@
 ---
 layout: no comment
+comments: false
 title: All Pages
-permalink: /all-pages/
 ---
 
   {% for post in site.posts %}
