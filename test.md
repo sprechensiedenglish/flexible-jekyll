@@ -30,8 +30,6 @@ title: Test
         <div class="page-date"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
       
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
-    </div>
 
 <div class="content-box clearfix">
   {% for post in site.posts %}
