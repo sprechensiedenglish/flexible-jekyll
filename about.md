@@ -1,6 +1,5 @@
 ---
-layout: nocomment
-comments: false
+layout: main
 title: About
 ---
 ## Disclaimer
