@@ -1,1 +1,5 @@
-<html><p>Some text here</p></html>
+<html>
+{% for post in site.posts %}
+{{ post.title }}
+{% endfor %}
+</html>
