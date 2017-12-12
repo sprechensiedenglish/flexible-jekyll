@@ -1,5 +1,5 @@
 ---
-layout: nocomment
+layout: nocomm
 title: About
 ---
 ## Disclaimer
