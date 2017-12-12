@@ -1,4 +1,4 @@
 ---
 layout: nocommreuse
-title: yadda
+title: All Pages
 ---
