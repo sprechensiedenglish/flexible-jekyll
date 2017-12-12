@@ -1449,20 +1449,20 @@ a.newer-posts:hover {
 
 /*Page Navigation*/
 
-.PageNavigation {
+.pagination {
   font-size: 14px;
   display: block;
   width: auto;
   overflow: hidden;
 }
 
-.PageNavigation a {
+.pagination a {
   display: block;
   width: 50%;
   float: left;
   margin: 1em 0;
 }
 
-.PageNavigation .next {
+.pagination .next_page {
   text-align: right;
 }
