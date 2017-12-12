@@ -1,5 +1,5 @@
 ---
-layout: nocomment
+layout: post
 title: Test
 ---
 
