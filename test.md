@@ -1,5 +1,4 @@
 ---
-layout: nocomment
 title: Test
 ---
  <section>
