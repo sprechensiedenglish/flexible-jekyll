@@ -4,7 +4,6 @@ title: Mit der Münchner Polizei
 date: 2017-12-12
 description: Join Bavaria’s finest enforcers, as they clean up the mean streets of Munich
 img: polizei.jpg
-published: false
 ---
 
 **Polizist**: „Halt!“
@@ -17,13 +16,14 @@ published: false
 
 **Polizist**: „Ja, sehr clever. Aber Sie fahren in der falschen Richtung.“
 
-**Heike**: „Na ja,  Ich muss 20 Meter von meinem Haus fahren, über die Strasse zu gehen“
+**Heike**: „Na ja,  Ich muss 20 Meter von meinem Haus fahren, über die Strasse zu  gehen“
 
 **Polizist**: „Rules sind Rules. Wo würden wir ohne Rules sein? Totales Chaos!“
 
 **Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
 
-**Polizist**: „Es ist mir egal.“
+**Polizist**: „Es ist mir egal. Hier ist dein Ticket. Bitte kommen sie im Station binnen 48 Stunden und bringen Sie ihren Pass, Identkarte, zwei Pretzels und Kaffee. Und kommen Sie aus Bayern?“
 
-**Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
+**Heike**: „Ähm ja“
 
+**Polizist**: Dann kommen Sie in einem Dirndl.
