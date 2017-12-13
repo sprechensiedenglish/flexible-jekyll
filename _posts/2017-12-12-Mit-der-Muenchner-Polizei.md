@@ -2,7 +2,7 @@
 layout: post
 title: Mit der Münchner Polizei
 date: 2017-12-12
-description: Join Bavaria’s finest enforcers, as they clean up the mean streets of Munich …
+description: Join Bavaria’s finest, as they clean up the mean streets of Munich …
 img: polizei.jpg
 ---
 
