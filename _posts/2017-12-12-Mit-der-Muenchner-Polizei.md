@@ -22,8 +22,4 @@ img: polizei.jpg
 
 **Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
 
-**Polizist**: „Es ist mir egal. Hier ist dein Ticket. Bitte kommen sie im Station binnen 48 Stunden und bringen Sie ihren Pass, Identkarte, zwei Pretzels und Kaffee. Und kommen Sie aus Bayern?“
-
-**Heike**: „Ähm ja“
-
-**Polizist**: Dann kommen Sie in einem Dirndl.
+**Polizist**: „Es ist mir egal. Hier ist dein Ticket. Bitte kommen sie im Station binnen 48 Stunden und bringen Sie ihren Pass, Identkarte  und Reporte von ihrer Schule. Und Pretzels und Kaffee.
