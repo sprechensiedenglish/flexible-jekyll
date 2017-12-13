@@ -36,6 +36,6 @@ img: fussball.jpg # Add image post (optional)
 
 [PFIFF!!]
 
-**Klaus**: „Alles vorbei. Vielleicht nächstes Jahr? Kommst du nächster Samstag?“
+**Klaus**: „Alles vorbei. Vielleicht nächstes Jahr … kommst du nächster Samstag?“
 
 **Markus**: „Ja, bis dann.“
