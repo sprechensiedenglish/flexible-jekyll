@@ -26,6 +26,6 @@ img: polizei.jpg
 
 **Heike**: „Wieso?“
 
-**Polizist**: „Ich muss später bei einer 4. Liga Fussballspiel arbeiten. Alles ist möglich!“
+**Polizist**: „Ich muss später bei einem 4. Liga Fussballspiel arbeiten. Alles ist möglich!“
 
 **Heike**: „Ja, ein Fan könnte sein Bier fallen. Oder ein Hund auf dem Fussballplatz …“
