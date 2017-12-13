@@ -10,7 +10,7 @@ img: polizei.jpg
 
 **Heike**: „Guten Tag. Gibt es ein Problem?“
 
-**Polizist**: „Ja, mit deinem Bike. Sie fahren ohne Lampen.“
+**Polizist**: „Ja, mit ihrem Bike. Sie fahren ohne Lampen.“
 
 **Heike**: „Aber es ist 13.00 Uhr. Die Sonne ist aus.“
 
