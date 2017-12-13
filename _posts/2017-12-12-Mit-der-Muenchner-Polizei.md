@@ -22,4 +22,10 @@ img: polizei.jpg
 
 **Heike**: „Aber dann muss ich 1 km zum Westen fahren.“
 
-**Polizist**: „Es ist mir egal. Hier ist dein Ticket. Bitte kommen sie im Station binnen 48 Stunden und bringen Sie ihren Pass, Identkarte  und Reporte von ihrer Schule. Und Pretzels und Kaffee.
+**Polizist**: „Es ist mir egal. Hier ist dein Ticket. Bitte kommen sie im Station binnen 48 Stunden und bringen Sie ihren Pass, Identkarte  und Reporte von ihrer Schule. Und Pretzels und Kaffee. Unser Job ist sehr stressig.
+
+**Heike**: „Wieso?“
+
+**Polizist**: „Ich muss später bei einer 4. Liga Fussballspiel arbeiten. Alles ist möglich!“
+
+**Heike**: „Ja, ein Fan könnte sein Bier fallen …“
