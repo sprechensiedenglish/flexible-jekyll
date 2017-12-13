@@ -28,4 +28,4 @@ img: polizei.jpg
 
 **Polizist**: „Ich muss später bei einer 4. Liga Fussballspiel arbeiten. Alles ist möglich!“
 
-**Heike**: „Ja, ein Fan könnte sein Bier fallen …“
+**Heike**: „Ja, ein Fan könnte sein Bier fallen. Oder ein Hund auf dem Fussballplatz …“
