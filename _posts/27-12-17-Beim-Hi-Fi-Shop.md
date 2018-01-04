@@ -6,7 +6,7 @@ description: Alles für deine goldenen Ears
 img: hifi.jpg
 ---
 
-**Thomas**:  „Hey, ich interessiere mich für Analog Gear. Natürlich muss ich _keep it real_“
+**Thomas**:  „Hey, ich interessiere mich für Analog Gear. Natürlich muss ich _Keep it Real_“
 
 **Verkäufer**: „Absolut! Was willst du? Zwei Lautsprecher?“
 
