@@ -6,7 +6,7 @@ description: Wax your moustache, climb on your penny farthing and head to the hi
 img: cafe.jpg # Add image post (optional)
 ---
 
-**Torsten**: Ich möchte in einem Lumberjack-Hemd an meinem MacBook sitzen. Und meinen Beard stroken. Sollen wir zu dem HIpster Cafe gehen?
+**Torsten**: Ich möchte in einem Lumberjack-Hemd an meinem MacBook sitzen. Und meinen Beard stroken. Sollen wir zu dem HIpster Café gehen?
 
 
 **Melanie**: Ja, super!
