@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beim Hi-Fi Shop
+title: Im Hi-Fi Shop
 date: 2017-12-17
 description: Alles für deine goldenen Ears
 img: hifi.jpg
