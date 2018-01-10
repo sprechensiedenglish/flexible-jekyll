@@ -2,7 +2,7 @@
 layout: post
 title: Beim Hipster Cafe
 date: 2018-01-10
-description:
+description: Wax your moustache, climb on your penny farthing and head to the hipsterest place in town.
 img: cafe.jpg # Add image post (optional)
 ---
 
@@ -28,13 +28,13 @@ Aber ich möchte eine kleine Flasche Imperial Banane-Stout aus Leeds für €8.
 **Melanie**: Ich nehme ein Gin & Tonic. In einer Marmalade-Jar.
 
 
-**Kellner**: Und zum Essen
+**Kellner**: Und zum Essen?
 
 
 **Torsten**: Avocado auf Toast.
 
 
-**Kellner**: Das kommt auf einem grossen Stück Holz.
+**Kellner**: Wir servieren das auf einem grossen Stück Holz.
 
 
 **Torsten**:  Lieber bitte auf einem kleinen Shovel. Mit Pommes in einem Bucket.
