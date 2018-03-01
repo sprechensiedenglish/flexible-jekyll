@@ -9,7 +9,7 @@ If you choose to use this site to learn German, you do so at your own risk.
 ## Credit where credit's due
 
 * This site is built using [Jekyll](https://jekyllrb.com), is based on the [Flexible Jekyll](https://github.com/artemsheludko/flexible-jekyll) theme and is hosted on [GitHub Pages](https://pages.github.com)
-* SSL certificate courtesy of [Cloudflare](https://www.cloudflare.com)
+* The SSL certificate was provided by [Cloudflare](https://www.cloudflare.com)
 * Naturally you are welcome to [fork my repository](https://github.com/sprechensiedenglish/sprechensiedenglish.github.io), assuming you're some sort of nerd
 * The header logo was pilfered from the good folk at [crossed-flag-pins](https://www.crossed-flag-pins.com).
 
