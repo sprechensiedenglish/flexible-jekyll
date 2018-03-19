@@ -30,7 +30,7 @@ img: deutsches-idol.jpg # Add image post (optional)
 
 **Julia**: „Danke danke danke! Heute ist der beste Tag meines Lebens!“
 
-**Judge #1**: „Hat jemand den Cauldron gesehen?“
+**Judge #1**: „Hat irgendjemand den Cauldron gesehen?“
 
 
 
