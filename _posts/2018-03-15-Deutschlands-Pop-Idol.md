@@ -12,9 +12,9 @@ img: deutsches-idol.jpg # Add image post (optional)
 
 **Judge #2**: „Und warum sind Sie an Deutschlands Pop-Idol?“
 
-**Julia**: „Meine Childhood war sehr hart. Mein Vater war Junkie und hat Geld von mir gestohlen, um Cough-Medizin zu kaufen.. Meine Mutter hat eine gigantische Nase und mein Bruder hatte Akne.
+**Julia**: „Meine Childhood war sehr hart. Mein Vater war ein Cough-Medizin Junkie und hat Geld von mir gestohlen, um Flaschen zu kaufen. Meine Mutter hat eine gigantische Nase und mein Bruder hatte Akne.
 
-„Ich war in meiner Schule gebullied, weil ich 300 kg war.
+„Ich wurde in meiner Schule gebullied, weil ich 300 kg war.
 
 „Und mein Hund hatte eine grosse Depression. Er schaut mich jetzt im TV und ich singe heute Abend für ihn. Hallo Schatzi!“
 
