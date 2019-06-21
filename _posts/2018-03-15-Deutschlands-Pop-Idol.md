@@ -2,7 +2,7 @@
 layout: post
 title: Deutschlands Pop Idol
 date: 2018-03-15
-description: Your chance be Germany’s next one-hit wonder …
+description: Your chance to be Germany’s next one-hit wonder …
 img: deutsches-idol.jpg # Add image post (optional)
 ---
 
